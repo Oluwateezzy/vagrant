@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oluwatobiloba/Desktop/vagrant/my-vms","disabled":false,"__vagrantfile":true}},"rsync":{"/opt/scripts":{"type":"rsync","guestpath":"/opt/scripts","hostpath":"/Users/oluwatobiloba/Desktop/vagrant/my-vms/scripts","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
